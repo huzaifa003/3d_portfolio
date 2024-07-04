@@ -3,7 +3,8 @@
     position: relative;
     width: 100%;
     /* Adjust based on your layout */
-    height: 35vb;
+    height: 40vb;
+    min-height: 450px;
     /* Adjust based on your content */
 }
 
