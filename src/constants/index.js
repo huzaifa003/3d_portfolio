@@ -24,6 +24,7 @@ import {
   tailwindcss,
   threads,
   typescript,
+  unity,
 } from "../assets/icons";
 
 export const skills = [
@@ -34,6 +35,11 @@ export const skills = [
   },
   {
     imageUrl: express,
+    name: "Express",
+    type: "Backend",
+  },
+  {
+    imageUrl: unity,
     name: "Express",
     type: "Backend",
   },
@@ -165,7 +171,7 @@ export const projects = [
     theme: "btn-back-pink",
     name: "Hillside Haven",
     description: "The game “Hillside Haven” is an arcade game, representing the sub mini games that provide an exciting gameplay experience, as well as a decoration scheme, that involves the player in multiple rewards gameplays, also uses different currencies and rewards to provide an exciting gameplay that is uptight with the user experience",
-    link: "https://event-platform-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
     
   },
   {
@@ -173,28 +179,28 @@ export const projects = [
     theme: "btn-back-black",
     name: "Mystic Match",
     description: "The objective is to align three or more adjacent sprites on a grid. Game includes limited moves to complete specific objective. Power ups help player to beat complex levels. Player advance through series of levels, each with increasing difficulty. Each successful level results in a collection of valuable coin earnings.",
-    link: "https://react-dashboard-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
     name: "Memory",
     description: "A memory game is a classic brain exercise designed to improve concentration and recall skills. Players flip over pairs of cards, trying to match identical images from memory. The game starts with all cards face down, and players take turns revealing two cards at a time. If the cards match, they remain face up; if not, they are flipped back down. The objective is to remember the positions of the cards and find all the matching pairs.",
-    link: "https://ai-summarizer-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
     name: "Pong",
     description: "A Pong game is a classic arcade-style video game where players control paddles on either side of the screen to hit a ball back and forth. The objective is to score points by getting the ball past the opponent's paddle. Players move their paddles vertically to intercept the ball's trajectory, which increases in speed as the game progresses.",
-    link: "https://carhub-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
   {
     iconUrl: summiz,
     theme: "btn-back-pink",
     name: "Color Switch",
     description: "Players control a ball that must navigate through various obstacles by tapping the screen to make it jump. The core challenge is to pass through sections that match the ball's color, which changes frequently, adding to the difficulty. ",
-    link: "https://brainstorm-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
   {
     iconUrl: snapgram,
@@ -202,7 +208,7 @@ export const projects = [
     name: "Helix Jump",
     description:
       "Players navigate a bouncing ball down a helical tower of platforms. By rotating the tower left or right, players aim to avoid colored segments that obstruct their descent. The objective is to drop through gaps in the platforms, aiming for a safe landing on the bottom platform. As players progress, the tower's complexity and speed increase, adding challenge.",
-    link: "https://portfolio-emredkyc.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
   {
     iconUrl: estate,
@@ -210,7 +216,7 @@ export const projects = [
     name: "Zig Zag",
     description:
       "Players control a ball moving along a zigzagging path suspended in space. Tapping the screen changes the ball's direction, making it switch to the next segment of the path. The goal is to navigate as far as possible without falling off the edge. As players progress, the path becomes narrower and more challenging to navigate. ",
-    link: "https://exercise-dev.vercel.app",
+    link: "https://www.youtube.com/embed/v4I0m2R4T20"
   },
  
 ];
